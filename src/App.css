@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+body {
+  background: url("https://i.imgur.com/MJAkxbh.png");
+}
+#quote-box {
+  margin-top: 20px;
+}
+
+#text {
+  font-size: 1.4em;
+  width:60%;
+  margin:50px auto;
+  font-family: Sansation, serif;
+  font-style:italic;
+  color: #555555;
+  padding:1.2em 30px 1.2em 75px;
+  border-left:8px solid #78C0A8 ;
+  line-height:1.6;
+  position: relative;
+  background:#EDEDED;
+}
+
+#author {
+  display:block;
+  color:#333333;
+  font-style: normal;
+  font-weight: bold;
+  margin-top:1em;
+}
+#tweet-quote {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+
